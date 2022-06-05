@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ## 🔭 I’m currently working on 
-Finish my firt year of bachelors in ITMO university
+Finishing my firt year of bachelors in ITMO university
 ## 🌱 I’m currently learning
 Recently I've been into OpenGL and graphics in general. It seems fun to play around with some real time graphics or physics calculations.
 ## ⚡ Fun fact
